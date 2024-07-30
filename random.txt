@@ -1,0 +1,3 @@
+search:Dance Now
+print:Hello, Welcome to our project on creating a spotify API
+search: Surround Sound

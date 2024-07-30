@@ -1,0 +1,3 @@
+SpotifyApi:
+Client ID: 238344e2f02e4abaa4e65e6bf82e8794
+Client Secret: 88d95829f30542bf978dbc7ba74137b6
